@@ -14,9 +14,9 @@ I'm developing a project for my company that I plan to establish in February 202
 I'm a Programming Teacher 💻. I'm developing an website with my team 👨🏼‍🤝‍👨🏻,
 I also work as a FreeLancer 🆓.
 
-### 📩 Connect with me:
 
-<br />
+## 📩 Connect with me:
+
 [ABYNK](https://abynk.com "My Personal Website")
 <br />
 [linkedin]: https://www.linkedin.com/in/abdullahyanik/
