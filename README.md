@@ -20,7 +20,7 @@ I also work as a FreeLancer 🆓.
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 
 <br />
-[ABYNK](https://abynk.com)
+[ABYNK](https://abynk.com "ABYNK")
 [linkedin]: https://www.linkedin.com/in/abdullahyanik/
 [instagram]: https://www.instagram.com/abdullahyanik16
 <br />
@@ -32,5 +32,3 @@ I also work as a FreeLancer 🆓.
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahyanik&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 </a>
 
-
-**abdullahyanik/abdullahyanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
