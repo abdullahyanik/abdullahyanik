@@ -19,9 +19,9 @@ I also work as a FreeLancer 🆓.
 
 [ABYNK](https://abynk.com "My Personal Website")
 <br />
-[linkedin]: https://www.linkedin.com/in/abdullahyanik/
+[Linkedin](https://www.linkedin.com/in/abdullahyanik/)
 <br />
-[instagram]: https://www.instagram.com/abdullahyanik16
+[Instagram](https://www.instagram.com/abdullahyanik16)
 <br />
 
 
