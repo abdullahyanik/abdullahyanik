@@ -15,17 +15,6 @@ I'm a Programming Teacher 💻. I'm developing an website with my team 👨🏼�
 I also work as a FreeLancer 🆓.
 
 
-## 📩 Connect with me:
-
-[ABYNK](https://abynk.com "My Personal Website")
-<br />
-[Linkedin](https://www.linkedin.com/in/abdullahyanik/)
-<br />
-[Instagram](https://www.instagram.com/abdullahyanik16)
-<br />
-
-
-
 ## GitHub Analytics 📊
 
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahyanik&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
