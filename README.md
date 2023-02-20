@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on many projects.
 - 🌱 I’m currently learning, developing and designing 😂
 - 👯 I’m looking to collaborate with other front-end developer 👩‍💻 and content creator ✍
-- 🤔 I’m looking for help with back-end develodsper
+- 🤔 I’m looking for help with back-end developer
 - 🥅 2023 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
 
