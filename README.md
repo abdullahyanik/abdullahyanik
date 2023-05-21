@@ -10,7 +10,7 @@
 
 ## ⏲ What I am doing now:
 
-I'm developing a project for my company that I plan to establish in February 2023, I am writing on 3 sites 📃.
+I'm developing a project for my company that I plan to establish in February 2023, I am writing on 3 websites 📃.
 I'm a Programming Teacher 💻. I'm developing an website with my team 👨🏼‍🤝‍👨🏻,
 I also work as a FreeLancer 🆓.
 
